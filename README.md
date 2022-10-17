@@ -12,8 +12,7 @@ I am a **bolder**
 * bulltet two
 * bullet three
 
-| Colunmn1 Title | Column2 Title |
-| -------------- | ------------- |
-| `first row` | :--- first row again |
-| `second row` | ---: second row again |
-| third row | :---: third roe again |
+| Colunmn1 Title | Column2 Title | Third Column |
+| -------------- | -------------: | :---------: |
+| `first_row.c` | first row again | third row what |
+| `second_row.c` | second row again | again fourth row |
