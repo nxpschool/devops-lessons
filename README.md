@@ -14,5 +14,6 @@ I am a **bolder**
 
 | Colunmn1 Title | Column2 Title |
 | -------------- | ------------- |
-| first row | first row again 
-| second row | second row again |
+| `first row` | :--- first row again |
+| `second row` | ---: second row again |
+| third row | :---: third roe again |
