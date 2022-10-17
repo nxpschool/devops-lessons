@@ -13,5 +13,6 @@ I am a **bolder**
 * bullet three
 
 | Colunmn1 Title | Column2 Title |
-| first row | first row again |
+| -------------- | ------------- |
+| first row | first row again 
 | second row | second row again |
